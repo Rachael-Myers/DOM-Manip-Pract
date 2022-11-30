@@ -1,15 +1,16 @@
 * {
     padding: 0;
     margin: 0;
+   
+   
+}
+body {
+    background-color: rgb(27, 105, 173); 
     color: black;
     font-family: 'courier', monospace;
     font-size: large;
     width: 100%;
     height: auto;
-   
-}
-body {
-    background-color: aliceblue;
 }
 .borders {
     border: 12px double lime;
